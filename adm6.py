@@ -24,6 +24,8 @@ def random_permutation(string):
   return ''.join(characters)
 
 # Пример использования.
+print("Введите строку: ")
 string = input()
 random_permutation = random_permutation(string)
+print("Случайная перестановка: ")
 print(random_permutation)
