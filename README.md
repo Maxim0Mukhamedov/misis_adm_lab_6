@@ -1,1 +1,5 @@
-# misis_adm_lab_6
+# Практическая 6. Случайные перестановки. Мухамедов Максим. БПМ-22-1
+Тестовый пример:
+![изображение](https://github.com/Maxim0Mukhamedov/misis_adm_lab_6/assets/113615768/6606af01-fbe8-4175-b523-dfb3594bac7f)
+
+
